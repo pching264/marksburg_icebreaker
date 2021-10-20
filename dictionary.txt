@@ -13,11 +13,11 @@ Ratskeller - bar or restaurant located in the basement of a city hall
 Dirndel - feminine dress consisting of a close-fitting bodice featuring a low neckline, blouse, skirt, and apron
 Lederhose - short or knee-length leather breeches
 Schloss - building similar to a palace, country house, or manor house
-wettbewerbsfaehig 
-Mehlhase 
-Gebaeck
-Baeckerei 
-Hund 
+wettbewerbsfaehig - competitive
+Mehlhase - flour bunny
+Gebaeck - pastry
+Baeckerei  - bakery
+Hund - dog
 Döner - Derived from the Turkish word for rotation, a type of rotisserie meat.
 Apfelkuchen - Apple cake
 Schloss - "Castle" or "Palace"
