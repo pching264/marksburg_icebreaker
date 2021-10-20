@@ -3,11 +3,11 @@ Flughafen - An airport
 Berlin - The capital city of Germany
 Bratwurst - A sausage made from veal, beef, or pork
 Hauptstrasse - A main road or street of a town
-Brot 
-Klimaanlage 
-Rammstein 
-Porsche
-BMW 
+Brot - bread 
+Klimaanlage - air conditioning
+Rammstein - band/US military base
+Porsche - luxury car brand
+BMW - luxury car brand
 Biergarten 
 Ratskeller 
 Dirndel 
