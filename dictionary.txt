@@ -8,7 +8,6 @@ Klimaanlage
 Rammstein 
 Porsche
 BMW 
-Biergarten - Beer garden
 Raesfeld - A municipality in the district of Borken in the administrative district of Muenster. The name stands for the village itself as well as the general municipality.
 Flughafen - An airport
 Berlin - The capital city of Germany
@@ -19,11 +18,11 @@ Klimaanlage - air conditioning
 Rammstein - band/US military base
 Porsche - luxury car brand
 BMW - luxury car brand
-Biergarten 
-Ratskeller 
-Dirndel 
-Lederhose 
-Schloss 
+Biergarten - Beer garden
+Ratskeller - bar or restaurant located in the basement of a city hall
+Dirndel - feminine dress consisting of a close-fitting bodice featuring a low neckline, blouse, skirt, and apron
+Lederhose - short or knee-length leather breeches
+Schloss - building similar to a palace, country house, or manor house
 wettbewerbsfaehig 
 Mehlhase 
 Gebaeck
